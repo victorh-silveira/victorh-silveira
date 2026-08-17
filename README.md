@@ -1,6 +1,12 @@
 <h1 align="center">Victor Hugo Carvalho Silveira</h1>
 
-<h3 align="center">Especialista em Cloud Azure | DevOps | DevSecOps | Engenheiro de Confiabilidade de Sistemas (SRE)</h3>
+<h3 align="center">Cloud Engineer | Especialista DevOps | Azure Certified | Terraform | Kubernetes (AKS) | CI/CD | SRE</h3>
+
+<p align="center">
+  Uberaba, Minas Gerais, Brasil<br>
+  <a href="tel:+5534984100011">(34) 98410-0011</a> ·
+  <a href="mailto:victorhcs_silveira@hotmail.com">victorhcs_silveira@hotmail.com</a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victorhugo-silveira" target="_blank">
@@ -9,21 +15,33 @@
   <a href="mailto:victorhcs_silveira@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://github.com/victorh-silveira/victorh-silveira" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
 ## Sobre Mim
 
-Especialista em Cloud Azure e DevOps com foco em automação de infraestrutura escalável, orquestração de containers com Kubernetes (AKS) e implementação de cultura GitOps. Busco aplicar expertise em IaC, CI/CD e práticas de DevSecOps para otimizar a eficiência operacional, a segurança da informação e a resiliência de sistemas complexos.
+Cloud Engineer e Especialista DevOps, pós-graduado em DevOps & Continuous Software Engineering pela PUC Minas e profissional Azure Certified. Atuo na implementação de fluxos de GitOps (ArgoCD) para gestão de múltiplos ambientes, automação de Landing Zones e orquestração de containers com Kubernetes (AKS) na nuvem Azure. Especialista em Infraestrutura como Código (IaC), com domínio avançado em Terraform e Pulumi para o provisionamento programático, escalável e resiliente de recursos.
 
 **Resumo Profissional:**
 * Pós-graduado em **DevOps & Continuous Software Engineering (PUC Minas)**, com sólida base em Engenharia de Software (SOLID, Clean Architecture, DDD e TDD).
 * Especialista em infraestrutura Azure, atuando na automação de Landing Zones e provisionamento via IaC (Terraform e Pulumi), com domínio em Kubernetes (AKS) e fluxos de GitOps (ArgoCD).
-* Desenvolvedor de scripts e automações em Go, Python e Bash, oferecendo suporte especializado a stacks em C# e React para converter complexidade técnica em eficiência.
-* Experiência comprovada na construção de pipelines via GitHub Actions com segurança integrada (Trivy, SonarQube, OWASP Top 10 e Burp Suite) e arquitetura de APIs REST (validadas via Postman, Insomnia e Bruno).
-* Especialista em SRE e Observabilidade com a stack LGTM e OpenTelemetry, utilizando Zabbix, Log Analytics e Application Insights para monitoramento proativo.
-* Integração do ciclo de vida DevOps com IA Generativa para acelerar a automação e a resolução de incidentes em runtime.
+* Experiência na arquitetura e consumo de APIs REST (Postman, Insomnia e Bruno), aplicando OWASP Top 10 e Burp Suite como práticas de DevSecOps.
+* Desenvolvedor versátil em Go, Python e Bash, com suporte especializado a stacks em C# e React para converter complexidade técnica em eficiência operacional.
+* Experiência comprovada na construção de pipelines via GitHub Actions com segurança integrada (Trivy e SonarQube), além de práticas de SRE, Gestão de Incidentes e Riscos.
+* Especialista em observabilidade com a stack LGTM e OpenTelemetry, monitoramento com Zabbix, Log Analytics e Application Insights, integrando o ciclo DevOps com notificações empresariais para visibilidade em tempo real de falhas de CI/CD, incidentes na nuvem e crashes em runtime.
+* Utilização de IA Generativa para otimizar ciclos de desenvolvimento e automação de infraestrutura.
+
+---
+
+## Principais Competências
+
+* **Segurança da Informação (DevSecOps)**
+* **Infraestrutura como Código (IaC) e Cloud**
+* **Containerização e Orquestração**
 
 ---
 
@@ -86,6 +104,13 @@ Especialista em Cloud Azure e DevOps com foco em automação de infraestrutura e
 
 ## Experiência Profissional
 
+<details open>
+<summary><b>Cloud Engineer | ilegra</b> (06/2026 - Presente)</summary>
+
+<br>
+Cloud Engineer atuando em Rio Grande do Sul, Brasil, com foco em infraestrutura em nuvem, DevOps e práticas de engenharia de confiabilidade.
+</details>
+
 <details>
 <summary><b>DevOps Engineer | Granto Seguros</b> (01/2025 - 02/2026)</summary>
 
@@ -141,7 +166,13 @@ Suporte operacional especializado em hardware e conectividade, com foco na alta 
 * **Curso Superior de Tecnologia (CST): Análise e Desenvolvimento de Sistemas** <br>
   *Cruzeiro do Sul Virtual* (01/2022 - 12/2024) | Status: Formado
 * **Curso Técnico Integrado: Manutenção e Suporte em Informática** <br>
-  *IFTM Campus Uberaba* (01/2016 - 12/2019) | Status: Formado
+  *IFTM Campus Uberaba Parque Tecnológico* (01/2016 - 12/2019) | Status: Formado
+
+---
+
+## Certificações
+
+* **Microsoft Certified: Azure Fundamentals**
 
 ---
 
