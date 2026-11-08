@@ -1,9 +1,9 @@
 <h1 align="center">Victor Hugo Carvalho Silveira</h1>
 
-<h3 align="center">Cloud Engineer | Especialista DevOps | Azure Certified | Terraform | Kubernetes (AKS) | CI/CD | SRE</h3>
+<h3 align="center">Cloud Engineer | Especialista DevOps | SRE | Azure Certified | AWS | Kubernetes | Terraform | CI/CD</h3>
 
 <p align="center">
-  Uberaba, Minas Gerais, Brasil<br>
+  Uberlândia, Minas Gerais, Brasil<br>
   <a href="tel:+5534984100011">(34) 98410-0011</a> ·
   <a href="mailto:victorhcs_silveira@hotmail.com">victorhcs_silveira@hotmail.com</a>
 </p>
@@ -24,24 +24,30 @@
 
 ## Sobre Mim
 
-Cloud Engineer e Especialista DevOps, pós-graduado em DevOps & Continuous Software Engineering pela PUC Minas e profissional Azure Certified. Atuo na implementação de fluxos de GitOps (ArgoCD) para gestão de múltiplos ambientes, automação de Landing Zones e orquestração de containers com Kubernetes (AKS) na nuvem Azure. Especialista em Infraestrutura como Código (IaC), com domínio avançado em Terraform e Pulumi para o provisionamento programático, escalável e resiliente de recursos.
+Cloud e DevOps Engineer certificado em Microsoft Azure e pós-graduado em DevOps and Continuous Software Engineering pela PUC Minas. Possuo sólida vivência prática em ecossistemas de missão crítica na **Azure** e **AWS**, atuando na concepção de Landing Zones e automação de infraestrutura como código (IaC) com Terraform, Pulumi e Ansible, além da orquestração de microsserviços com Docker, Helm, Kustomize, Kubernetes (AKS/EKS) e GitOps via ArgoCD.
+
+Com fundamentação em Engenharia de Software e cultura DevSecOps, estruturo esteiras de CI/CD seguras no GitHub Actions integrando gates de qualidade estática e dinâmica (Trivy, SonarQube, OWASP Top 10) e governança de acessos (IAM). Focado em confiabilidade operacional (SRE) e FinOps, implemento observabilidade avançada em sistemas distribuídos utilizando a stack LGTM, OpenTelemetry, Dynatrace, Grafana, Prometheus e Amazon CloudWatch — orientando operações por métricas de SLAs, SLOs e SLIs, acelerando a redução do MTTR em incidentes críticos e otimizando o consumo de nuvem.
+
+Construo soluções e ferramentas internas de automação com Go, Python e Bash, alavancando IA Generativa para potencializar rotinas técnicas e converter complexidade arquitetural em estabilidade, segurança e eficiência operacional.
 
 **Resumo Profissional:**
-* Pós-graduado em **DevOps & Continuous Software Engineering (PUC Minas)**, com sólida base em Engenharia de Software (SOLID, Clean Architecture, DDD e TDD).
-* Especialista em infraestrutura Azure, atuando na automação de Landing Zones e provisionamento via IaC (Terraform e Pulumi), com domínio em Kubernetes (AKS) e fluxos de GitOps (ArgoCD).
-* Experiência na arquitetura e consumo de APIs REST (Postman, Insomnia e Bruno), aplicando OWASP Top 10 e Burp Suite como práticas de DevSecOps.
-* Desenvolvedor versátil em Go, Python e Bash, com suporte especializado a stacks em C# e React para converter complexidade técnica em eficiência operacional.
-* Experiência comprovada na construção de pipelines via GitHub Actions com segurança integrada (Trivy e SonarQube), além de práticas de SRE, Gestão de Incidentes e Riscos.
-* Especialista em observabilidade com a stack LGTM e OpenTelemetry, monitoramento com Zabbix, Log Analytics e Application Insights, integrando o ciclo DevOps com notificações empresariais para visibilidade em tempo real de falhas de CI/CD, incidentes na nuvem e crashes em runtime.
-* Utilização de IA Generativa para otimizar ciclos de desenvolvimento e automação de infraestrutura.
+* **Formação e Especialização:** Pós-graduado em **DevOps & Continuous Software Engineering (PUC Minas)**, com sólida base em Engenharia de Software (SOLID, Clean Architecture, DDD e TDD).
+* **Multi-Cloud & Landing Zones:** Especialista em ecossistemas Azure e AWS, atuando na arquitetura de Landing Zones corporativas, governança IAM e automação via IaC (Terraform, Pulumi e Ansible).
+* **Containers & GitOps:** Domínio avançado em Kubernetes (AKS e EKS), Helm, Kustomize, Docker e deploys declarativos contínuos com ArgoCD.
+* **DevSecOps & Qualidade:** Esteiras seguras de CI/CD no GitHub Actions com gates automatizados (Trivy, SonarQube, OWASP Top 10) e gestão centralizada de segredos com Azure Key Vault.
+* **SRE & Observabilidade:** Confiabilidade orientada por dados com Dynatrace, Prometheus, Grafana, Kibana, Zabbix, Amazon CloudWatch, OpenTelemetry e stack LGTM, gerenciando SLAs, SLOs, SLIs e redução contínua do MTTR.
+* **Automação & IA:** Desenvolvimento de ferramentas e automações eficientes com Go, Python e Bash, incorporando IA Generativa para aceleração do ciclo de vida de software.
 
 ---
 
 ## Principais Competências
 
-* **Segurança da Informação (DevSecOps)**
-* **Infraestrutura como Código (IaC) e Cloud**
-* **Containerização e Orquestração**
+* **Segurança da Informação (DevSecOps) & Governança IAM**
+* **Infraestrutura como Código (IaC) & Multi-Cloud (Azure & AWS)**
+* **Containerização & Orquestração (Kubernetes AKS/EKS, Helm, Kustomize)**
+* **Site Reliability Engineering (SRE) & Observabilidade Distribuída**
+* **Integração e Entrega Contínua (CI/CD) & GitOps (ArgoCD)**
+* **Otimização de Custos em Nuvem (FinOps)**
 
 ---
 
@@ -51,6 +57,7 @@ Cloud Engineer e Especialista DevOps, pós-graduado em DevOps & Continuous Softw
 
 ### Cloud & Infraestrutura
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi" />
 <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
@@ -60,6 +67,8 @@ Cloud Engineer e Especialista DevOps, pós-graduado em DevOps & Continuous Softw
 ### Containers & Orquestração
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+<img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kustomize" />
 <img src="https://img.shields.io/badge/ArgoCD-CB3066?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 
 ### CI/CD & Automação
@@ -73,10 +82,13 @@ Cloud Engineer e Especialista DevOps, pós-graduado em DevOps & Continuous Softw
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 
 ### Observabilidade & SRE
+<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+<img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
 
 ### Linguagens & Desenvolvimento (Scripts e Automações)
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -93,68 +105,65 @@ Cloud Engineer e Especialista DevOps, pós-graduado em DevOps & Continuous Softw
 
 ## Habilidades e Competências
 
-* **Segurança da Informação:** DevSecOps, Trivy, SonarQube, Cloudflare WAF, OWASP Top 10, Burp Suite, Azure Key Vault.
-* **Infraestrutura e Nuvem:** Infraestrutura como Código (IaC), Microsoft Azure, Serverless, PaaS, Landing Zones.
-* **Orquestração:** Containerização, Kubernetes (AKS), Docker.
-* **SRE e Observabilidade:** Site Reliability Engineering (SRE), Monitoramento proativo, Stack LGTM, Log Analytics, Application Insights.
-* **Engenharia de Software:** Integração e Entrega Contínua (CI/CD), Desenvolvimento de APIs REST, SOLID, Clean Architecture, DDD, TDD.
-* **Operações:** Administração de Sistemas (Linux e Windows Server), Automação de Processos com Python/Bash e LLMs, Suporte Níveis 1, 2 e 3.
+* **Segurança da Informação & DevSecOps:** DevSecOps, Trivy, SonarQube, Cloudflare WAF, OWASP Top 10, Burp Suite, Azure Key Vault, Governança IAM e Princípio do Menor Privilégio.
+* **Infraestrutura e Nuvem (Multi-Cloud):** Infraestrutura como Código (IaC), Microsoft Azure, Amazon Web Services (AWS: EC2, ECS, EKS, RDS, Lambda), Serverless, PaaS, Landing Zones corporativas e FinOps.
+* **Orquestração e Containers:** Containerização, Kubernetes (AKS / EKS), Docker, Helm, Kustomize, GitOps (ArgoCD), StatefulSets e arquiteturas resilientes com self-healing.
+* **SRE e Observabilidade:** Site Reliability Engineering (SRE), Gestão de SLAs, SLOs e SLIs, redução de MTTR, stack LGTM, Dynatrace, Grafana, Prometheus, Kibana, Amazon CloudWatch, Zabbix, Log Analytics, Application Insights e OpenTelemetry.
+* **Engenharia de Software:** Integração e Entrega Contínua (CI/CD), Desenvolvimento de APIs REST, Clean Architecture, SOLID, DDD, TDD, automações com Go, Python e Bash.
+* **Operações & Suporte:** Administração de Sistemas (Linux e Windows Server), automação de processos, resolução de incidentes em war rooms (OTRS, Jira Service Management) e gestão proativa de ambientes de missão crítica.
 
 ---
 
 ## Experiência Profissional
 
 <details open>
-<summary><b>Cloud Engineer | ilegra</b> (06/2026 - Presente)</summary>
+<summary><b>Cloud Engineer | ilegra</b> (06/2026 - Presente · Remoto)</summary>
 
 <br>
-Cloud Engineer atuando em Rio Grande do Sul, Brasil, com foco em infraestrutura em nuvem, DevOps e práticas de engenharia de confiabilidade.
+
+* **Erradicação de Vulnerabilidades Críticas:** Erradiquei 100% dos riscos de *Security Misconfiguration* (A05) e *Vulnerable Components* (A06) em portal esportivo de alta audiência, medido por auditoria forense com zero ocorrência de webshells, crons maliciosos e scripts residuais, ao executar sanitização profunda de SO/PHP, restringir privilégios em `/wp-content/` e isolar o tráfego em sockets Unix dedicados.
+* **Otimização de Performance e Latência de Banco:** Mitiguei gargalos de *Software and Data Integrity Failures* (A08) e exaustão de I/O, reduzindo a latência média de banco para **~1.2 ms sem filesort**, ao auditar o código em memória, neutralizar chamadas síncronas legadas de I/O em disco e implementar índices compostos no Aurora MySQL.
+* **Resiliência e Alta Disponibilidade de Cache:** Eliminei o risco de indisponibilidade por *Cache Stampede* sob picos massivos de tráfego, sustentando **TTFB inferior a 0.7s** e zero saturação de workers PHP, ao arquitetar políticas de resiliência no Nginx com `fastcgi_cache_lock` e entrega segura de stale cache.
+* **SRE em Ecossistemas de Missão Crítica:** Assegurei **99.9% de disponibilidade** em ecossistemas de missão crítica (Fintechs e Mobilidade), cumprindo 100% dos SLAs/SLIs, ao estruturar observabilidade de ponta a ponta com Dynatrace, Prometheus, Grafana e Kibana.
+* **Redução Drástica do MTTR:** Reduzi o MTTR em **mais de 40%** em incidentes críticos corporativos via OTRS, mantendo a taxa de resolução dentro do SLA **acima de 98%**, ao liderar investigações de causa-raiz em war rooms e calibrar alertas preditivos no Amazon CloudWatch e Zabbix.
+* **Eficiência e Governança na AWS:** Aumentei em **30% a eficiência operacional** na entrega de infraestrutura AWS (EC2, ECS, EKS, RDS, Lambda), comprovado pela velocidade de provisionamento, ao padronizar automações com governança estrita de IAM e conformidade com o princípio de menor privilégio.
 </details>
 
 <details>
 <summary><b>DevOps Engineer | Granto Seguros</b> (01/2025 - 02/2026)</summary>
 
 <br>
-Especialista em DevOps e DevSecOps focado na automação de infraestrutura em nuvem e entregas seguras na Microsoft Azure, utilizando Terraform e Ansible para provisionamento escalável.
 
-* Gestão da observabilidade proativa com a stack LGTM, Log Analytics Workspace e Application Insights.
-* Implementação de estratégias de segurança defensiva com foco em Cloudflare WAF.
-* Administração do ecossistema Serverless e PaaS da Azure (Azure Server, SQL, CosmosDB), garantindo resiliência desde o deploy até a saúde dos Container Apps.
-* Sustentação de pipelines via GitHub Actions integrando análise de vulnerabilidades (Trivy, SonarQube) e orquestração da recuperação automática de instâncias (self-healing).
-* Isolamento de segredos através de Azure Key Vaults segmentados por ambiente e utilização de LLMs para acelerar o desenvolvimento de automações complexas em Python e Bash.
+* **Frequência de Deploy e IaC:** Acelerei a frequência de lançamentos (*deploy frequency*) em **35%**, medido pelo ciclo de entrega de novas versões, ao padronizar o provisionamento de Landing Zones e infraestrutura como código (IaC) na Azure com Terraform, Ansible e Pulumi.
+* **DevSecOps e Segurança Proativa:** Reduzi em **80% as vulnerabilidades críticas** em produção, medido por relatórios de conformidade e testes estáticos/dinâmicos, ao integrar gates de DevSecOps (Trivy, SonarQube, OWASP Top 10) e gestão de segredos via Azure Key Vault em esteiras de CI/CD no GitHub Actions.
+* **GitOps e Orquestração Resiliente:** Elevei a disponibilidade de microsserviços para **99.9%**, medido pela redução de paradas não programadas e falhas em cascata, ao implementar fluxos de GitOps com ArgoCD e Helm, orquestrando contêineres resilientes com *self-healing* no AKS e Container Apps.
+* **FinOps e Observabilidade Unificada:** Reduzi os custos operacionais de nuvem (FinOps) em **25%** e o MTTR, medido pela fatura mensal e pelo tempo de resposta a incidentes, ao unificar a observabilidade em tempo real com stack LGTM, Application Insights, Log Analytics e blindagem com Cloudflare WAF.
 </details>
 
 <details>
 <summary><b>Técnico de Suporte em TI | Granto Seguros</b> (04/2024 - 01/2025)</summary>
 
 <br>
-Especialista em suporte técnico níveis 1 e 2, focado na alta disponibilidade da infraestrutura corporativa e na administração avançada de ecossistemas de nuvem (Google Workspace e plataformas de CRM).
 
-* Sustentação de hardware e suporte especializado a recursos de nuvem, garantindo a estabilidade e a continuidade operacional.
-* Foco em eficiência e automação: utilização de Python e integrações via API para transformar processos manuais e tarefas rotineiras em fluxos automatizados.
-* Gerenciamento do ciclo de vida de incidentes através do Jira Service Management, utilizando ferramentas de suporte remoto e integração de canais via VOIP e WhatsApp API para otimizar o tempo de resposta e a resolução de chamados.
+* **Automação de Processos:** Eliminei **mais de 15 horas semanais** de esforço operacional repetitivo, medido pela redução de tempo de execução dos fluxos internos da equipe, ao desenvolver e implantar scripts de automação em Python integrados a APIs REST corporativas.
+* **Otimização de SLAs e Suporte:** Reduzi o tempo de primeira resposta (FRT) em **30%**, medido pelos relatórios de SLA no Jira Service Management, ao padronizar a triagem de chamados e centralizar o suporte remoto via AnyDesk, VOIP, WhatsApp API e administração do Google Workspace.
 </details>
 
 <details>
 <summary><b>Analista de Suporte Computacional | Grupo Skala</b> (10/2021 - 04/2024)</summary>
 
 <br>
-Responsável pela administração de servidores e sustentação de infraestrutura crítica, com domínio avançado em ambientes Linux (Debian, Ubuntu e Oracle) e Windows Server 2019.
 
-* Gestão de serviços essenciais de rede e colaboração, incluindo pfSense, Zimbra Mail, Nextcloud e SAMBA, além de assegurar a integridade do ambiente via Panda Antivírus.
-* Atuação no suporte especializado de níveis 2 e 3, garantindo a configuração e manutenção resiliente de ativos de rede.
-* Realização da gestão estratégica de TI, focada no planejamento e controle orçamentário para a aquisição otimizada de servidores, infraestrutura de rede e parques de hardware.
+* **Disponibilidade On-Premises:** Sustentei **99.5% de disponibilidade** em toda a infraestrutura on-premises, medido pelo tempo de atividade contínuo dos serviços de missão crítica, ao administrar ambientes heterogêneos Linux (Debian, Ubuntu, Oracle Linux) e Windows Server 2019, além de prover serviços essenciais de rede e colaboração com pfSense, SAMBA, Nextcloud e Zimbra.
+* **Gestão Estratégica e FinOps de Infraestrutura:** Reduzi despesas orçamentárias de infraestrutura em **20% (Capex/Opex)**, medido pelo balanço financeiro e custo total de aquisições de TI, ao conduzir o planejamento estratégico de compras, validação técnica de fornecedores e especificação de hardware corporativo e ativos de rede L2/L3.
 </details>
 
 <details>
 <summary><b>Estagiário de TI | Grupo Skala</b> (06/2021 - 10/2021)</summary>
 
 <br>
-Suporte operacional especializado em hardware e conectividade, com foco na alta disponibilidade de ativos e no atendimento ágil a usuários internos e externos.
 
-* Manutenção preventiva e corretiva de computadores, notebooks e sistemas de impressão.
-* Estruturação de redes de dados e sistemas de telefonia, garantindo a estabilidade da comunicação corporativa.
-* Diagnóstico e solução de falhas críticas de conectividade, priorizando a eficiência técnica e a continuidade ininterrupta dos processos operacionais da empresa.
+* **Confiabilidade Física e Lógica:** Reduzi em **35% os chamados de indisponibilidade** de rede e estações de trabalho, medido pelo volume de tickets de falhas físicas e de conectividade, ao estabelecer rotinas de manutenção preventiva/corretiva em computadores, certificar cabeamento estruturado e otimizar a infraestrutura de telefonia corporativa.
 </details>
 
 ---
@@ -172,7 +181,8 @@ Suporte operacional especializado em hardware e conectividade, com foco na alta 
 
 ## Certificações
 
-* **Microsoft Certified: Azure Fundamentals**
+* **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/victorhugo-silveira/D55D61374B8B2DD2?sharingId=754B725A4C692275)**  
+  *Microsoft Learn Verified Credential*
 
 ---
 
